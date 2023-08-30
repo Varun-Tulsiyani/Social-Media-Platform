@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 public class ImagePost extends Post {
     static private String imageTitle;

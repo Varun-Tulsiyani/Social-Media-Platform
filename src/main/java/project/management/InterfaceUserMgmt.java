@@ -1,4 +1,4 @@
-package project;
+package project.management;
 
 import java.util.ArrayList;
 

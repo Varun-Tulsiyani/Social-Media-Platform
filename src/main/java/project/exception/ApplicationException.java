@@ -1,4 +1,4 @@
-package project;
+package project.exception;
 
 public class ApplicationException extends Exception {
     private int code;

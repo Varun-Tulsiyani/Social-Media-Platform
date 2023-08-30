@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 public class AudioPost extends Post {
     static private String audioTitle;

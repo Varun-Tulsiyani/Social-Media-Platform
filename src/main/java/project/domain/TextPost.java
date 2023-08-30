@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 public class TextPost extends Post {
     static private String postTitle;

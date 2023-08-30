@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 public class User {
     private String username, password;

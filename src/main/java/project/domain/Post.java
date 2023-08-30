@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 import java.util.Date;
 import java.io.Serializable;

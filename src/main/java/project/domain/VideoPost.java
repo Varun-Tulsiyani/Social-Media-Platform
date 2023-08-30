@@ -1,4 +1,4 @@
-package project;
+package project.domain;
 
 public class VideoPost extends Post {
     static private String videoTitle;
